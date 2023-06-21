@@ -13,3 +13,11 @@ export default {
 </script>
 
 
+<style>
+body {
+  @apply bg-bg;
+}
+
+</style>
+
+
